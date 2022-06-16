@@ -1,4 +1,4 @@
-# form
+# Form
 
 A flutter project which contains the Registration Form  and connected with MySQL database through API.
 
