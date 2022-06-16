@@ -1,6 +1,6 @@
 # form
 
-A new Flutter project.
+A flutter project which contains the Registration Form  and connected with MySQL database through API.
 
 ## Getting Started
 
