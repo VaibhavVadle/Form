@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "289866324554",
+    "project_id": "form-62a99",
+    "storage_bucket": "form-62a99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289866324554:android:dc9fd7208d928cdf9f64b3",
+        "android_client_info": {
+          "package_name": "com.example.form"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289866324554-b4u3gvf6ngojpm8mvbnvb702gtcd1q2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.form",
+            "certificate_hash": "a780a3cf0d986c1cd8759b2725ce7428e3d3be76"
+          }
+        },
+        {
+          "client_id": "289866324554-5qd2fi9s0g9228gs4c42i51t33ihbpe7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmN1xDW1AQQldieFv9MFBT-IObYC0yp8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289866324554-5qd2fi9s0g9228gs4c42i51t33ihbpe7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
