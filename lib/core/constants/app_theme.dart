@@ -5,10 +5,10 @@ import 'package:form/core/constants/app_sizes.dart';
 class AppThemeData {
   AppThemeData._();
 
-  static const Color _backgroundColor = Colors.white;
+  static const Color _backgroundColor = Colors.blueGrey;
 
-  static const Color _primary = Color(0xff0071DC);
-  static const Color _secondary = Color(0xff8AD5F4);
+  static const Color _primary = Colors.white;
+  static const Color _secondary = Colors.yellow;
 
   static const Color _error = Color(0xffEB5757);
 

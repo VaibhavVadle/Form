@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+const String kAppName = "Demo";
 GlobalKey<NavigatorState> kNavigatorKey = GlobalKey<NavigatorState>();
 
 const String kNoInternetConnection =

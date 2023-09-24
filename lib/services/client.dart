@@ -75,17 +75,17 @@ class _LogInterceptor extends LogInterceptor {
 }
 
 class _AuthInterceptor extends Interceptor {
-  @override
-  void onRequest(RequestOptions options, RequestInterceptorHandler handler) {
-    super.onRequest(options, handler);
+  // @override
+  // void onRequest(RequestOptions options, RequestInterceptorHandler handler) {
+  //   super.onRequest(options, handler);
 
-    // bool isLogged = preferences.isLogged;
-    // String? token = preferences.token;
+  // bool isLogged = preferences.isLogged;
+  // String? token = preferences.token;
 
-    // if (isLogged && token != null) {
-    //   options.headers = HeaderBuilder.builder().setBearerToken(token).build();
-    // }
-  }
+  // if (isLogged && token != null) {
+  //   options.headers = HeaderBuilder.builder().setBearerToken(token).build();
+  // }
+  // }
 
   // @override
   // void onError(DioError err, ErrorInterceptorHandler handler) {
